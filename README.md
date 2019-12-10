@@ -4,6 +4,10 @@
 [![Build Status](https://travis-ci.org/LLK/scratch-render.svg?branch=develop)](https://travis-ci.org/LLK/scratch-render)
 [![Greenkeeper badge](https://badges.greenkeeper.io/LLK/scratch-render.svg)](https://greenkeeper.io/)
 
+## GANPaint
+
+This version of Scratch Render is meant to accommodate the GANPaint extension. For more background on the extension, please go to [https://github.com/PTegmark/Scratch-GANPaint/blob/master/README.md](https://github.com/PTegmark/Scratch-GANPaint/blob/master/README.md)
+
 ## Installation
 ```bash
 npm install https://github.com/LLK/scratch-render.git
